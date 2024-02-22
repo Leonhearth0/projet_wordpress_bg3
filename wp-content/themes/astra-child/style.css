@@ -1,0 +1,69 @@
+/*
+Theme Name: astra-child
+Author: Johann VALERY
+Description: Thème enfant pour Astra
+Text Domain: astra-child
+Template: astra
+*/
+
+body {
+    background-color: #33322C !important;
+}
+
+#masthead {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: #33322C !important;
+    z-index: 99;
+}
+
+.ast-above-header.ast-above-header-bar, .ast-primary-header-bar, .menu-link{
+    background-color: #33322C !important;
+}
+
+
+.main-navigation{
+    z-index: 98;
+}
+
+.main-navigation a{
+    color : #BDA633 !important;
+}
+
+.main-navigation a:hover{
+    color: #F0CB11 !important;
+}
+
+.site-primary-footer-wrap {
+    background-color: #33322C !important;
+}
+
+#dispo-title, #config-title {
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+        list-style: url('./sword.svg');      
+}
+
+ul.li{
+    color: #BDA633
+}
+
+button{
+    color: #BDA633;
+}
+
+/* Régle de CSS de contournement pour Elementor pleine page sur les articles*/
+
+.fullwidth_fix{
+        left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw!important;
+	position: relative!important;
+	right: 50%;
+	width: 100vw!important;
+}

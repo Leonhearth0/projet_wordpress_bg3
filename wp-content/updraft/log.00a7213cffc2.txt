@@ -1,0 +1,339 @@
+0000.001 (0) Opened log file at time: Thu, 22 Feb 2024 09:02:29 +0000 on http://localhost/projet_wordpress
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.23.16 WP: 6.4.3 PHP: 8.1.10 (apache2handler, Windows NT MYPORT 10.0 build 22631 (Windows 11) AMD64) MySQL: 8.0.30 (max packet size=536870912) WPLANG: fr_FR Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 92.2M | 94M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 322062.9 MB
+0000.015 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.038 (0) Semaphore (fd, wp_options) being initialised
+0000.043 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.048 (0) Set semaphore last lock (fd) time to 2024-02-22 09:02:29
+0000.049 (0) Semaphore lock (fd) complete
+0000.058 (0) Backup run: resumption=0, nonce=00a7213cffc2, file_nonce=00a7213cffc2 begun at=1708592549 (0s ago), job type=backup
+0000.063 (0) Scheduling a resumption (1) after 300 seconds (1708592849) in case this run gets aborted
+0000.116 (0) Checking if we have a zip executable available
+0000.120 (0) Creation of backups of directories: beginning
+0000.129 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.770 (0) Total entities for the zip file: 1324 directories, 6180 files (0 skipped as non-modified), 124.8 MB
+0001.816 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.852 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.889 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.928 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.947 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.2 MB, 6180 files batched, 451 (451) added so far); re-opening (prior size: 0 KB)
+0012.593 (0) A useful amount of data was added after this amount of zip processing: 12.6 s (normalised: 12.5 s, rate: 2049 KB/s)
+0012.630 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 500 files added (on-disk size: 5491 KB)
+0012.668 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 600 files added (on-disk size: 5491 KB)
+0012.703 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 700 files added (on-disk size: 5491 KB)
+0012.737 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 800 files added (on-disk size: 5491 KB)
+0012.770 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 900 files added (on-disk size: 5491 KB)
+0012.803 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1000 files added (on-disk size: 5491 KB)
+0012.835 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1100 files added (on-disk size: 5491 KB)
+0012.867 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1200 files added (on-disk size: 5491 KB)
+0012.899 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1300 files added (on-disk size: 5491 KB)
+0012.931 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1400 files added (on-disk size: 5491 KB)
+0012.948 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.9 MB, 6180 files batched, 1001 (1452) added so far); re-opening (prior size: 5491 KB)
+0026.444 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1500 files added (on-disk size: 13830.8 KB)
+0026.477 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1600 files added (on-disk size: 13830.8 KB)
+0026.512 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1700 files added (on-disk size: 13830.8 KB)
+0026.546 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1800 files added (on-disk size: 13830.8 KB)
+0026.579 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 1900 files added (on-disk size: 13830.8 KB)
+0026.611 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2000 files added (on-disk size: 13830.8 KB)
+0026.645 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2100 files added (on-disk size: 13830.8 KB)
+0026.678 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2200 files added (on-disk size: 13830.8 KB)
+0026.711 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2300 files added (on-disk size: 13830.8 KB)
+0026.742 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2400 files added (on-disk size: 13830.8 KB)
+0026.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.8 MB, 6180 files batched, 1001 (2453) added so far); re-opening (prior size: 13830.8 KB)
+0057.406 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2500 files added (on-disk size: 20001.6 KB)
+0057.441 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2600 files added (on-disk size: 20001.6 KB)
+0057.475 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2700 files added (on-disk size: 20001.6 KB)
+0057.508 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2800 files added (on-disk size: 20001.6 KB)
+0057.541 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 2900 files added (on-disk size: 20001.6 KB)
+0057.576 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3000 files added (on-disk size: 20001.6 KB)
+0057.611 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3100 files added (on-disk size: 20001.6 KB)
+0057.643 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3200 files added (on-disk size: 20001.6 KB)
+0057.675 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3300 files added (on-disk size: 20001.6 KB)
+0057.707 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3400 files added (on-disk size: 20001.6 KB)
+0057.726 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.5 MB, 6180 files batched, 1001 (3454) added so far); re-opening (prior size: 20001.6 KB)
+0079.508 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3500 files added (on-disk size: 25426 KB)
+0079.544 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3600 files added (on-disk size: 25426 KB)
+0079.577 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3700 files added (on-disk size: 25426 KB)
+0079.612 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3800 files added (on-disk size: 25426 KB)
+0079.650 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 3900 files added (on-disk size: 25426 KB)
+0079.685 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4000 files added (on-disk size: 25426 KB)
+0079.719 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4100 files added (on-disk size: 25426 KB)
+0079.752 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4200 files added (on-disk size: 25426 KB)
+0079.783 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4300 files added (on-disk size: 25426 KB)
+0079.814 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4400 files added (on-disk size: 25426 KB)
+0079.833 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 6180 files batched, 1001 (4455) added so far); re-opening (prior size: 25426 KB)
+0091.120 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4500 files added (on-disk size: 28994.3 KB)
+0091.156 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4600 files added (on-disk size: 28994.3 KB)
+0091.189 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4700 files added (on-disk size: 28994.3 KB)
+0091.223 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4800 files added (on-disk size: 28994.3 KB)
+0091.255 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 4900 files added (on-disk size: 28994.3 KB)
+0091.288 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5000 files added (on-disk size: 28994.3 KB)
+0091.321 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5100 files added (on-disk size: 28994.3 KB)
+0091.354 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5200 files added (on-disk size: 28994.3 KB)
+0091.387 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5300 files added (on-disk size: 28994.3 KB)
+0091.421 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5400 files added (on-disk size: 28994.3 KB)
+0091.440 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.8 MB, 6180 files batched, 1001 (5456) added so far); re-opening (prior size: 28994.3 KB)
+0107.057 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5500 files added (on-disk size: 35981.8 KB)
+0107.089 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5600 files added (on-disk size: 35981.8 KB)
+0107.123 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5700 files added (on-disk size: 35981.8 KB)
+0107.155 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5800 files added (on-disk size: 35981.8 KB)
+0107.188 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 5900 files added (on-disk size: 35981.8 KB)
+0107.221 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 6000 files added (on-disk size: 35981.8 KB)
+0107.254 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.tmp: 6100 files added (on-disk size: 35981.8 KB)
+0126.210 (0) Creating zip file manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.list-temp.tmp)
+0126.238 (0) Successfully created zip file manifest (size: 520011)
+0126.521 (0) Created plugins zip (0) - 37414.3 KB in 126.4 s (296 KB/s) (sha1: 50a884715c8524ff0af901ff832495a6c354b570, sha256: 4bf3a5ceb585ca33e7755c17dd2eb79be3989e944a88123561c5e8b00d5d344f)
+0126.529 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0126.530 (0) No remote despatch: user chose no remote backup service
+0126.531 (0) Recording as successfully uploaded: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip
+0126.532 (0) Deleting zip manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip.list.tmp)
+0126.535 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0126.537 (0) Number of backup sets in history: 0; groups (db): 1
+0126.538 (0) Number of backup sets in history: 0; groups (files): 1
+0126.539 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0126.545 (0) Beginning creation of dump of themes (split every: 400 MB)
+0126.800 (0) Total entities for the zip file: 324 directories, 843 files (0 skipped as non-modified), 21.9 MB
+0126.841 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0126.882 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0126.921 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0126.960 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0126.996 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0127.031 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0127.066 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0127.100 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0139.160 (0) Creating zip file manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.list-temp.tmp)
+0139.172 (0) Successfully created zip file manifest (size: 71238)
+0139.286 (0) Created themes zip (0) - 8901.7 KB in 12.7 s (698.9 KB/s) (sha1: b1db2c147128abd474e33dd3565d2448c7b62067, sha256: e4b90686972a80811de6ac5be466952f5d56a5a3d71fd671919d996055d8ce2f)
+0139.294 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0139.295 (0) No remote despatch: user chose no remote backup service
+0139.297 (0) Recording as successfully uploaded: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip
+0139.300 (0) Deleting zip manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip.list.tmp)
+0139.304 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0139.306 (0) Number of backup sets in history: 0; groups (db): 1
+0139.307 (0) Number of backup sets in history: 0; groups (files): 1
+0139.309 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0139.318 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0139.320 (0) Looking for candidates to backup in: C:\laragon\www\projet_wordpress/wp-content/uploads
+0139.322 (0) finding files: 2024: adding to list (1)
+0139.324 (0) finding files: elementor: adding to list (2)
+0139.326 (0) finding files: essential-addons-elementor: adding to list (3)
+0139.327 (0) finding files: wpforms: adding to list (4)
+0139.329 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0139.373 (0) Total entities for the zip file: 8 directories, 143 files (0 skipped as non-modified), 37.7 MB
+0139.409 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0139.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (32.6 MB, 143 files batched, 108 (108) added so far); re-opening (prior size: 0 KB)
+0140.061 (0) A useful amount of data was added after this amount of zip processing: 1.1 s (normalised: 0.8 s, rate: 30982 KB/s)
+0140.063 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.076807975769, normalised_time=0.82628569033287, max_time=140.06156301498, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0140.529 (0) Creating zip file manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-uploads.zip.list-temp.tmp)
+0140.533 (0) Successfully created zip file manifest (size: 9227)
+0140.885 (0) Created uploads zip (0) - 34137.7 KB in 1.5 s (22059.5 KB/s) (sha1: 7380d77f9038bc25963adb8015c3e7558a8e9397, sha256: f19ad63ea97d1c5c3c9a16365c263126ccfd51cfc38ce53c9b490c0d33e50193)
+0140.893 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0140.895 (0) No remote despatch: user chose no remote backup service
+0140.897 (0) Recording as successfully uploaded: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-uploads.zip
+0140.901 (0) Deleting zip manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-uploads.zip.list.tmp)
+0140.906 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0140.908 (0) Number of backup sets in history: 0; groups (db): 1
+0140.909 (0) Number of backup sets in history: 0; groups (files): 1
+0140.911 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0140.919 (0) No backup of mu-plugins: excluded by user's options
+0140.923 (0) Beginning backup of other directories found in the content directory (index: 0)
+0140.925 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0140.926 (0) Looking for candidates to backup in: C:\laragon\www\projet_wordpress/wp-content
+0140.927 (0) finding files: index.php: adding to list (1)
+0140.928 (0) finding files: languages: adding to list (2)
+0140.929 (0) finding files: plugins: skipping: this is the plugins directory
+0140.930 (0) finding files: themes: skipping: this is the themes directory
+0140.931 (0) finding files: updraft: skipping: this is the updraft directory
+0140.932 (0) finding files: upgrade: skipping: excluded by options
+0140.933 (0) finding files: upgrade-temp-backup: adding to list (3)
+0140.934 (0) finding files: uploads: skipping: this is the uploads directory
+0140.969 (0) Total entities for the zip file: 5 directories, 165 files (0 skipped as non-modified), 6.9 MB
+0141.004 (0) Zip: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0143.215 (0) Creating zip file manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-others.zip.list-temp.tmp)
+0143.219 (0) Successfully created zip file manifest (size: 11701)
+0143.244 (0) Created others zip (0) - 1917.3 KB in 2.3 s (831.9 KB/s) (sha1: c2789239a771caf800339f02e60321141ae601c8, sha256: 53242ecd9697084b1f85143cbdaba14e0d9df9d1365931993c0ea37b1f35973d)
+0143.248 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0143.249 (0) No remote despatch: user chose no remote backup service
+0143.250 (0) Recording as successfully uploaded: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-others.zip
+0143.252 (0) Deleting zip manifest (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-others.zip.list.tmp)
+0143.255 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0143.256 (0) Number of backup sets in history: 0; groups (db): 1
+0143.257 (0) Number of backup sets in history: 0; groups (files): 1
+0143.259 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0143.275 (0) Saving backup status to database (elements: 8)
+0143.280 (0) Beginning creation of database dump (WordPress DB)
+0143.283 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0143.289 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0143.680 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1549 bytes total)
+0143.684 (0) Working binary mysqldump found: "C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe"
+0143.717 (0) Table wp_options: Total expected rows (via COUNT): 314
+0143.719 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.775 (0) Table wp_options: Rows added in this batch (next record: 1463): 310 (uncompressed bytes in this segment=1747621) in 0.08 seconds
+0143.786 (0) Table wp_options: finishing file(s) (2, 223.1 KB)
+0143.792 (0) Table wp_users: Total expected rows (via COUNT): 1
+0143.794 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.797 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1405) in 0.01 seconds
+0143.805 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0143.816 (0) Table wp_usermeta: Total expected rows (via COUNT): 45
+0143.818 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.821 (0) Table wp_usermeta: Rows added in this batch (next record: 47): 45 (uncompressed bytes in this segment=5602) in 0.01 seconds
+0143.834 (0) Table wp_usermeta: finishing file(s) (2, 2.5 KB)
+0143.847 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 15
+0143.848 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.853 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 27): 15 (uncompressed bytes in this segment=7896) in 0.01 seconds
+0143.866 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.3 KB)
+0143.874 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0143.878 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=621) in 0.01 seconds
+0143.891 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0143.906 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0143.908 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.914 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=702) in 0.01 seconds
+0143.928 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0143.940 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 35
+0143.943 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0143.950 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 37): 35 (uncompressed bytes in this segment=3706) in 0.02 seconds
+0143.966 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.8 KB)
+0143.987 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0143.994 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.02 seconds
+0144.012 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0144.028 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0144.031 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.038 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2237) in 0.02 seconds
+0144.051 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0144.063 (0) Table wp_links: Total expected rows (via COUNT): 0
+0144.068 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.01 seconds
+0144.080 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0144.188 (0) Table wp_postmeta: Total expected rows (approximate): 2744
+0144.260 (0) Table wp_postmeta: Rows added in this batch (next record: 3213): 2721 (uncompressed bytes in this segment=4979801) in 0.17 seconds
+0144.270 (0) Table wp_postmeta: finishing file(s) (2, 127.3 KB)
+0144.324 (0) Table wp_posts: Total expected rows (via COUNT): 389
+0144.326 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.365 (0) Table wp_posts: Rows added in this batch (next record: 418): 389 (uncompressed bytes in this segment=2628313) in 0.09 seconds
+0144.375 (0) Table wp_posts: finishing file(s) (2, 67.3 KB)
+0144.382 (0) Table wp_term_relationships: Total expected rows (approximate): 43
+0144.387 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 43 (uncompressed bytes in this segment=1296) in 0.01 seconds
+0144.395 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0144.404 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 21
+0144.405 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.408 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1594) in 0.01 seconds
+0144.416 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0144.425 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0144.427 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.01 seconds
+0144.437 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0144.447 (0) Table wp_terms: Total expected rows (via COUNT): 21
+0144.448 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.452 (0) Table wp_terms: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1526) in 0.01 seconds
+0144.461 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0144.475 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0144.480 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.01 seconds
+0144.492 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0144.513 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0144.518 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.02 seconds
+0144.532 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0144.546 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0144.550 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1958) in 0.01 seconds
+0144.564 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0144.586 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0144.589 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.595 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 6): 5 (uncompressed bytes in this segment=1044) in 0.02 seconds
+0144.611 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0144.629 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 35
+0144.631 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.639 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 35): 35 (uncompressed bytes in this segment=23347) in 0.02 seconds
+0144.655 (0) Table wp_yoast_indexable: finishing file(s) (2, 3.8 KB)
+0144.666 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 31
+0144.671 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 31 (uncompressed bytes in this segment=1272) in 0.01 seconds
+0144.683 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0144.699 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0144.702 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.707 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1261) in 0.02 seconds
+0144.720 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0144.733 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0144.739 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.01 seconds
+0144.754 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0144.770 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 35
+0144.772 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0144.781 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 35): 35 (uncompressed bytes in this segment=5988) in 0.02 seconds
+0144.797 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.3 KB)
+0144.800 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\laragon\www\projet_wordpress/wp-content/updraft/backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db.gz (line 1976, C:\laragon\www\projet_wordpress\wp-content\plugins\updraftplus\backup.php)
+0144.806 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_options.table.tmpr1464.gz (1/25/fopen): adding to final database dump
+0144.816 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_options.table.gz (2/25/fopen): adding to final database dump
+0144.819 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_users.table.tmpr2.gz (3/25/fopen): adding to final database dump
+0144.822 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_users.table.gz (4/25/fopen): adding to final database dump
+0144.825 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_usermeta.table.tmpr48.gz (5/25/fopen): adding to final database dump
+0144.827 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_usermeta.table.gz (6/25/fopen): adding to final database dump
+0144.830 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_actions.table.tmpr28.gz (7/25/fopen): adding to final database dump
+0144.832 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_actions.table.gz (8/25/fopen): adding to final database dump
+0144.834 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/25/fopen): adding to final database dump
+0144.837 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_claims.table.gz (10/25/fopen): adding to final database dump
+0144.839 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/25/fopen): adding to final database dump
+0144.840 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_groups.table.gz (12/25/fopen): adding to final database dump
+0144.841 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_logs.table.tmpr38.gz (13/25/fopen): adding to final database dump
+0144.843 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_actionscheduler_logs.table.gz (14/25/fopen): adding to final database dump
+0144.844 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_commentmeta.table.tmpr0.gz (15/25/fopen): adding to final database dump
+0144.846 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_commentmeta.table.gz (16/25/fopen): adding to final database dump
+0144.847 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_comments.table.tmpr2.gz (17/25/fopen): adding to final database dump
+0144.849 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_comments.table.gz (18/25/fopen): adding to final database dump
+0144.850 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_links.table.tmpr0.gz (19/25/fopen): adding to final database dump
+0144.852 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_links.table.gz (20/25/fopen): adding to final database dump
+0144.853 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_postmeta.table.tmpr3214.gz (21/25/fopen): adding to final database dump
+0144.856 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_postmeta.table.gz (22/25/fopen): adding to final database dump
+0144.857 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_posts.table.tmpr419.gz (23/25/fopen): adding to final database dump
+0144.859 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_posts.table.gz (24/25/fopen): adding to final database dump
+0144.860 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_term_relationships.table.tmpr100001.gz (25/25/fopen): adding to final database dump
+0144.861 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_term_relationships.table.gz (26/25/fopen): adding to final database dump
+0144.863 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_term_taxonomy.table.tmpr22.gz (27/25/fopen): adding to final database dump
+0144.864 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_term_taxonomy.table.gz (28/25/fopen): adding to final database dump
+0144.865 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_termmeta.table.tmpr0.gz (29/25/fopen): adding to final database dump
+0144.866 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_termmeta.table.gz (30/25/fopen): adding to final database dump
+0144.868 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_terms.table.tmpr22.gz (31/25/fopen): adding to final database dump
+0144.869 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_terms.table.gz (32/25/fopen): adding to final database dump
+0144.870 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_e_events.table.tmpr0.gz (33/25/fopen): adding to final database dump
+0144.871 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_e_events.table.gz (34/25/fopen): adding to final database dump
+0144.872 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (35/25/fopen): adding to final database dump
+0144.873 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_payment_meta.table.gz (36/25/fopen): adding to final database dump
+0144.874 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_payments.table.tmpr0.gz (37/25/fopen): adding to final database dump
+0144.875 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_payments.table.gz (38/25/fopen): adding to final database dump
+0144.876 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_tasks_meta.table.tmpr7.gz (39/25/fopen): adding to final database dump
+0144.877 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_wpforms_tasks_meta.table.gz (40/25/fopen): adding to final database dump
+0144.878 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_indexable.table.tmpr36.gz (41/25/fopen): adding to final database dump
+0144.879 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_indexable.table.gz (42/25/fopen): adding to final database dump
+0144.880 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (43/25/fopen): adding to final database dump
+0144.881 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_indexable_hierarchy.table.gz (44/25/fopen): adding to final database dump
+0144.882 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_migrations.table.tmpr25.gz (45/25/fopen): adding to final database dump
+0144.883 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_migrations.table.gz (46/25/fopen): adding to final database dump
+0144.884 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_primary_term.table.tmpr0.gz (47/25/fopen): adding to final database dump
+0144.885 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_primary_term.table.gz (48/25/fopen): adding to final database dump
+0144.886 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_seo_links.table.tmpr36.gz (49/25/fopen): adding to final database dump
+0144.886 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db-table-wp_yoast_seo_links.table.gz (50/25/fopen): adding to final database dump
+0144.896 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db.gz: finished writing out complete database file (436 KB)
+0144.919 (0) Total database tables backed up: 25 (backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db.gz, size: 446626, sha1: 22cd34cf7c6a4f9e76927c44e9787ac2248ce42b, sha256: 4922a86e4562271d90c34439441fff594ccfd61362978afc56a5ddacfa3fc3e5)
+0144.925 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-plugins.zip: plugins: This file has already been successfully uploaded
+0144.926 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-themes.zip: themes: This file has already been successfully uploaded
+0144.927 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-uploads.zip: uploads: This file has already been successfully uploaded
+0144.928 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-others.zip: others: This file has already been successfully uploaded
+0144.929 (0) backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0144.930 (0) Saving backup history. Total backup size: 80.9 MB
+0144.932 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0144.935 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0144.936 (0) No remote despatch: user chose no remote backup service
+0144.937 (0) Recording as successfully uploaded: backup_2024-02-22-1002_Baldur039s_Gate_3_00a7213cffc2-db.gz
+0144.958 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0144.960 (0) Number of backup sets in history: 1; groups (db): 1
+0144.961 (0) Examining (for databases) backup set with group_id=0, nonce=00a7213cffc2, datestamp=1708592549 (Feb 22 2024 09:02:29)
+0144.962 (0) This backup set is the backup set just made, so will not be deleted.
+0144.962 (0) Number of backup sets in history: 1; groups (files): 1
+0144.963 (0) Examining (for files) backup set with nonce=00a7213cffc2, datestamp=1708592549 (Feb 22 2024 09:02:29)
+0144.963 (0) This backup set is the backup set just made, so will not be deleted.
+0144.964 (0) This backup set is the backup set just made, so will not be deleted.
+0144.964 (0) This backup set is the backup set just made, so will not be deleted.
+0144.964 (0) This backup set is the backup set just made, so will not be deleted.
+0144.964 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0144.966 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0144.968 (0) Resume backup (00a7213cffc2, 0): finish run
+0144.971 (0) Decremented the semaphore (fd) by 1
+0144.972 (0) Semaphore (fd) unlocked
+0144.973 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0144.976 (0) The backup succeeded and is now complete
+0144.977 (0) No email will/can be sent - the user has not configured an email address.
+0144.978 (0) La sauvegarde a réussi et est maintenant terminée
